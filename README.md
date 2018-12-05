@@ -14,7 +14,6 @@ mip-masonry 组件说明
 ```html
 <mip-masonry>
             <div class="item" id="brand-a">
-                <p> <img src="css/Sensor77.jpg" style="width:100%;"></p>
                 <p class="margin-clear"><label class="text-color-bg1"> MAC：</label><label>880</label></p>
                 <p class="margin-clear"><label class="text-color-bg1">传感器类型：</label><label>多功能数据采集传输系统</label></p>
                 <p class="margin-clear"><label class="text-color-bg1">安装地址：</label><label>测试</label></p>
@@ -139,17 +138,4 @@ mip-masonry 组件说明
             </div>
 </mip-masonry>
 ```
-
-## 属性
-
-### {属性名}
-
-说明：{说明}
-必选项：{是|否}
-类型：{类型}
-取值范围：{取值范围}
-单位：{单位}
-默认值：{默认值}
-
-## 注意事项
 
