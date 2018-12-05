@@ -1,0 +1,14 @@
+{
+    "name": "mip-masonry",
+    "version": "1.0.0",
+    "description": "MIP瀑布里组件",
+    "contributors": [
+        {
+            "name": "Twinkleee",
+            "email": "365189883@qq.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}
